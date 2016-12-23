@@ -32,4 +32,5 @@
     });
   }
 
+  
   window.addEventListener('scroll', debounce(checkSlide));
